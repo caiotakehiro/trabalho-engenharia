@@ -27,14 +27,9 @@
 
 # Autores
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
+* Caio Takehiro Magnoli Igari
+* João Pedro Gonzaga
+* Felipe Berthoux de Oliveira Souza
 
 
 # Descrição do Projeto
