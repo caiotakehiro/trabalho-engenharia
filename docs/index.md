@@ -49,6 +49,7 @@ Sistema de Operações da Fábrica de Pizzas: Controlar a produção e logístic
 
 
 # Análise de Requisitos Funcionais e Não-Funcionais
+
 Requisitos Funcionais do Sistema de Atendimento ao Pedido:
 
 RF1: O sistema deve permitir que o cliente faça pedidos online.
@@ -56,7 +57,9 @@ RF2: O sistema deve identificar a localização do cliente utilizando GPS.
 RF3: O sistema deve buscar a loja Pizza-Express mais próxima.
 RF4: O sistema deve processar o pedido e confirmar a entrega.
 RF5: O sistema deve enviar notificações ao cliente sobre o status do pedido.
+
 Requisitos Funcionais do Sistema de Operações da Fábrica de Pizzas:
+
 RF6: O sistema deve gerenciar o estoque de ingredientes.
 RF7: O sistema deve monitorar o tempo de preparo das pizzas.
 RF8: O sistema deve coordenar a logística de entrega.
@@ -66,12 +69,15 @@ Análise de Requisitos Não-Funcionais
 Desempenho:
 RNF1: O sistema deve processar pedidos em até 2 segundos.
 RNF2: O tempo de entrega deve ser de no máximo 15 minutos.
+
 Usabilidade:
 RNF3: O sistema deve ter uma interface amigável e intuitiva para usuários.
 RNF4: O sistema deve ser acessível em dispositivos móveis.
+
 Segurança:
 RNF5: O sistema deve garantir a proteção dos dados pessoais dos clientes.
 RNF6: O sistema deve implementar autenticação para acesso administrativo.
+
 Escalabilidade:
 RNF7: O sistema deve suportar aumento no número de pedidos simultâneos.
 
