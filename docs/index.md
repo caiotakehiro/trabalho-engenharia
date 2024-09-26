@@ -34,52 +34,49 @@ Softwares para o suporte da demanda (Pizza-Express)
 
 # Descrição do Projeto
 
-Contexto
-A Pizza-Express, uma rede de 40 lojas de fast-food, enfrenta uma significativa queda de 30% em suas vendas devido à ineficiência no serviço de entrega. Para competir com um concorrente que oferece entregas em 30 minutos, a Pizza-Express planeja desenvolver um novo sistema de software que otimize sua operação de entrega, com o objetivo de reduzir o tempo de entrega para menos de 30 minutos.
+A Pizza-Express, uma rede de 40 lojas de fast-food, está enfrentando uma queda preocupante de 30% em suas vendas, principalmente devido à ineficiência no serviço de entrega. O principal concorrente da empresa lançou um programa que promete entregar pedidos em até 30 minutos, enquanto a Pizza-Express atualmente anuncia um tempo de entrega de uma hora. Para reverter essa situação, a empresa decidiu investir no desenvolvimento de um novo sistema de software que otimizará o processo de entrega, permitindo que as pizzas sejam entregues em menos de 30 minutos.
 
-Objetivos
-Criar um sistema que localize a loja Pizza-Express mais próxima do cliente.
-Implementar um sistema de atendimento ao pedido que permita a coleta e processamento ágil de pedidos.
-Estabelecer uma infraestrutura de entrega que possibilite a entrega em 10 a 15 minutos.
+Localização Eficiente: Criar um sistema que identifique a loja Pizza-Express mais próxima do cliente, utilizando dados de geolocalização.
+Processamento Rápido de Pedidos: Implementar um software que permita o recebimento e processamento ágil dos pedidos.
+Entrega Acelerada: Estabelecer um sistema de logística que possibilite a entrega das pizzas em 10 a 15 minutos.
 Escopo do Projeto
-O projeto será dividido em duas partes principais:
+O projeto é dividido em duas partes principais:
 
-Sistema de Atendimento ao Pedido: Gerenciar o recebimento e processamento dos pedidos, além de localizar a loja mais próxima.
-Sistema de Operações da Fábrica de Pizzas: Controlar a produção e logística das entregas.
-
+Sistema de Atendimento ao Pedido: Este sistema gerenciará o recebimento de pedidos e localizará a loja mais próxima.
+Sistema de Operações da Fábrica de Pizzas: Este sistema controlará a produção e logística das entregas, garantindo que as pizzas sejam preparadas rapidamente.
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 
 Requisitos Funcionais do Sistema de Atendimento ao Pedido:
 
-RF1: O sistema deve permitir que o cliente faça pedidos online.
-RF2: O sistema deve identificar a localização do cliente utilizando GPS.
-RF3: O sistema deve buscar a loja Pizza-Express mais próxima.
-RF4: O sistema deve processar o pedido e confirmar a entrega.
-RF5: O sistema deve enviar notificações ao cliente sobre o status do pedido.
+O sistema deve permitir que o cliente faça pedidos online.
+O sistema deve identificar a localização do cliente utilizando GPS.
+O sistema deve buscar a loja Pizza-Express mais próxima.
+O sistema deve processar o pedido e confirmar a entrega.
+O sistema deve enviar notificações ao cliente sobre o status do pedido.
 
 Requisitos Funcionais do Sistema de Operações da Fábrica de Pizzas:
 
-RF6: O sistema deve gerenciar o estoque de ingredientes.
-RF7: O sistema deve monitorar o tempo de preparo das pizzas.
-RF8: O sistema deve coordenar a logística de entrega.
+ O sistema deve gerenciar o estoque de ingredientes.
+ O sistema deve monitorar o tempo de preparo das pizzas.
+ O sistema deve coordenar a logística de entrega.
 
 Análise de Requisitos Não-Funcionais
 
 Desempenho:
-RNF1: O sistema deve processar pedidos em até 2 segundos.
-RNF2: O tempo de entrega deve ser de no máximo 15 minutos.
+ O sistema deve processar pedidos em até 2 segundos.
+ O tempo de entrega deve ser de no máximo 15 minutos.
 
 Usabilidade:
-RNF3: O sistema deve ter uma interface amigável e intuitiva para usuários.
-RNF4: O sistema deve ser acessível em dispositivos móveis.
+O sistema deve ter uma interface amigável e intuitiva para usuários.
+O sistema deve ser acessível em dispositivos móveis.
 
 Segurança:
-RNF5: O sistema deve garantir a proteção dos dados pessoais dos clientes.
-RNF6: O sistema deve implementar autenticação para acesso administrativo.
+ O sistema deve garantir a proteção dos dados pessoais dos clientes.
+ O sistema deve implementar autenticação para acesso administrativo.
 
 Escalabilidade:
-RNF7: O sistema deve suportar aumento no número de pedidos simultâneos.
+O sistema deve suportar aumento no número de pedidos simultâneos.
 
 # Diagrama de Atividades
 
