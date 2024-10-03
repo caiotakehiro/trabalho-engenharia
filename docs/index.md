@@ -72,7 +72,8 @@ Escalabilidade:
 
 # Diagrama de Atividades
 
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
+![Untitled diagram-2024-10-03-142100](https://github.com/user-attachments/assets/baa19540-5a4c-426f-9b5f-0979601f9869)
+
 
 # Diagrama de Casos de Uso
 
