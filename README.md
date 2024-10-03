@@ -21,7 +21,7 @@ A seguir, os passos para a preparação do projeto:
 
 # Projeto: Software para gestão da pizzaria
 
-# Grupo: Caio Takehiro Magnoli 10437809,
+# Grupo: Caio Takehiro Magnoli 10437809, Joao Pedro Gonzaga 10386522, Felipe Berthoux 10322325
 
 # Descrição
 
