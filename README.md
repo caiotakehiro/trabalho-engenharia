@@ -25,7 +25,7 @@ A seguir, os passos para a preparação do projeto:
 
 # Descrição
 
-*<Descrição_resumida_do_projeto>*
+O projeto visa desenvolver um sistema de entrega otimizado para a Pizza-Express, uma cadeia de fast-food com 40 lojas, que enfrenta uma queda de 30% no faturamento devido à ineficiência no processo de entrega. O sistema buscará localizar a loja mais próxima do cliente, reduzir o tempo de entrega para competir com o serviço rápido da concorrência (até 30 minutos) e melhorar a gestão interna das fábricas de pizzas. Ele incluirá funcionalidades para que clientes possam fazer e acompanhar pedidos, enquanto os funcionários poderão processá-los e gerenciar o estoque e produção de forma mais eficiente.
 
 # Documentação
 
