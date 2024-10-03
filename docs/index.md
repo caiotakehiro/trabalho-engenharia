@@ -34,49 +34,41 @@ Softwares para o suporte da demanda (Pizza-Express)
 
 # Descrição do Projeto
 
-A Pizza-Express, uma rede de 40 lojas de fast-food, está enfrentando uma queda preocupante de 30% em suas vendas, principalmente devido à ineficiência no serviço de entrega. O principal concorrente da empresa lançou um programa que promete entregar pedidos em até 30 minutos, enquanto a Pizza-Express atualmente anuncia um tempo de entrega de uma hora. Para reverter essa situação, a empresa decidiu investir no desenvolvimento de um novo sistema de software que otimizará o processo de entrega, permitindo que as pizzas sejam entregues em menos de 30 minutos.
-
-Localização Eficiente: Criar um sistema que identifique a loja Pizza-Express mais próxima do cliente, utilizando dados de geolocalização.
-Processamento Rápido de Pedidos: Implementar um software que permita o recebimento e processamento ágil dos pedidos.
-Entrega Acelerada: Estabelecer um sistema de logística que possibilite a entrega das pizzas em 10 a 15 minutos.
-Escopo do Projeto
-O projeto é dividido em duas partes principais:
-
-Sistema de Atendimento ao Pedido: Este sistema gerenciará o recebimento de pedidos e localizará a loja mais próxima.
-Sistema de Operações da Fábrica de Pizzas: Este sistema controlará a produção e logística das entregas, garantindo que as pizzas sejam preparadas rapidamente.
+O projeto envolve o desenvolvimento de um sistema de software para a cadeia de lojas Pizza-Express, que enfrenta desafios na área de entregas. A Pizza-Express, com 40 lojas, está perdendo 30% de seu faturamento devido à concorrência, que oferece entrega em 30 minutos, enquanto a Pizza-Express promete uma hora. Atualmente, a empresa usa sistemas computacionais apenas para funções administrativas e operacionais básicas, mas esses sistemas não auxiliam no gerenciamento das entregas. Portanto a ideia principal por traz desse projeto é criar um software que a capacidade de atender dois critéros identificar a loja Pizza-Express mais próxima do cliente para agilizar a entrega, também a solução deve incluir um sistema de suporte às operações das fábricas de pizza, que funcionam apenas como centros de preparação e entrega, sem atendimento ao cliente no local.
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 
-Requisitos Funcionais do Sistema de Atendimento ao Pedido:
+<h4>Requisitos Funcionais do Sistema de Atendimento ao Pedido:</h4>
 
-O sistema deve permitir que o cliente faça pedidos online.
-O sistema deve identificar a localização do cliente utilizando GPS.
-O sistema deve buscar a loja Pizza-Express mais próxima.
-O sistema deve processar o pedido e confirmar a entrega.
-O sistema deve enviar notificações ao cliente sobre o status do pedido.
+* O sistema deve permitir que o cliente faça pedidos online.
+* O sistema deve identificar a localização do cliente utilizando GPS.
+* O sistema deve buscar a loja Pizza-Express mais próxima.
+* O sistema deve processar o pedido e confirmar a entrega.
+* O sistema deve enviar notificações ao cliente sobre o status do pedido.
 
-Requisitos Funcionais do Sistema de Operações da Fábrica de Pizzas:
+<h4>Requisitos Funcionais do Sistema de Operações da Fábrica de Pizzas:</h4>
 
- O sistema deve gerenciar o estoque de ingredientes.
- O sistema deve monitorar o tempo de preparo das pizzas.
- O sistema deve coordenar a logística de entrega.
+ * O sistema deve permitir que os funcionários gerenciem os produtos da loja.
+ * O sistema deve gerenciar o estoque de ingredientes.
+ * O sistema deve monitorar o tempo de preparo das pizzas.
+ * O sistema deve coordenar a logística de entrega.
 
-Análise de Requisitos Não-Funcionais
+<h4>Análise de Requisitos Não-Funcionais</h4>
 
 Desempenho:
- O sistema deve processar pedidos em até 2 segundos.
- O tempo de entrega deve ser de no máximo 15 minutos.
+ * O sistema deve processar pedidos em até 2 segundos.
+ * O tempo de entrega deve ser de no máximo 30 minutos.
 
 Usabilidade:
-O sistema deve ter uma interface amigável e intuitiva para usuários.
-O sistema deve ser acessível em dispositivos móveis.
+* O sistema deve ter uma interface intuitiva.
+* O sistema deve ser acessível em praticamente todos tipos dispositivos.
 
 Segurança:
- O sistema deve garantir a proteção dos dados pessoais dos clientes.
- O sistema deve implementar autenticação para acesso administrativo.
+* O sistema deve garantir a proteção dos dados pessoais dos clientes.
+* O sistema deve implementar autenticação para acesso administrativo.
 
 Escalabilidade:
-O sistema deve suportar aumento no número de pedidos simultâneos.
+* O sistema deve suportar aumento no número de pedidos simultâneos.
 
 # Diagrama de Atividades
 
@@ -84,7 +76,8 @@ O sistema deve suportar aumento no número de pedidos simultâneos.
 
 # Diagrama de Casos de Uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+![373124980-a17ade7c-fe42-4f86-8be4-d4bb853ef874](https://github.com/user-attachments/assets/3652b666-4610-4f0d-8f3b-9d90c00859b6)
+
 
 # Descrição dos Casos de Uso
 
