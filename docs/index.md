@@ -81,14 +81,21 @@ Escalabilidade:
 
 # Descrição dos Casos de Uso
 ![373132640-d244bf30-52e4-4a29-9a71-78eed763d1d9](https://github.com/user-attachments/assets/b654adc3-c5db-40ba-934a-e248282a8bc5)
+
+---
 ![373132894-9598ccdf-91f1-467c-8ca8-74a7c7cfcc4e](https://github.com/user-attachments/assets/7453fe78-2eb4-4cd2-8e0d-8cb8e0493b24)
+
+---
 ![373132633-e829046b-632f-42bb-bf43-6e9c62a81d9f](https://github.com/user-attachments/assets/7419423b-b4ed-4c4d-9a86-03fdbff0c0c6)
+
+---
 ![373132631-842674d8-258b-47d0-8763-99d5c811be97](https://github.com/user-attachments/assets/062850cb-889f-4c7c-afc8-ee4e4394f447)
+
+---
 ![373132630-6f861650-223a-4f86-9cd2-5ad738f03ea2](https://github.com/user-attachments/assets/353a3c93-dbc8-4e8d-a782-7f0305e55946)
+
+---
 ![373132623-730ae213-7d38-4424-bfcc-4c14c8c01b2d](https://github.com/user-attachments/assets/aba8c569-26c8-4043-8404-f91221c8b97c)
-
-
-
 
 # Diagrama de Sequência
 
