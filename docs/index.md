@@ -106,7 +106,8 @@ Escalabilidade:
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![Complete_Deployment_Diagram_Pizza_Express](https://github.com/user-attachments/assets/e3841d87-6c70-4114-86dc-3d81dac9faf0)
+
 
 # Referências
 
