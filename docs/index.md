@@ -97,7 +97,8 @@ Escalabilidade:
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![390887257-ac662f12-87b7-42d4-8d58-2bfc4cb853a4](https://github.com/user-attachments/assets/d81ca75b-933d-45fb-ac46-e815e1b06383)
+
 
 # Diagrama de Estados
 
