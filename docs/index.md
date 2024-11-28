@@ -101,8 +101,8 @@ Escalabilidade:
 
 
 # Diagrama de Estados
+![Complete_State_Diagram_Pizza_Express](https://github.com/user-attachments/assets/55a11858-ad7f-478f-8119-d4f01f9bf274)
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
 
 # Diagrama de Implantação
 
