@@ -101,7 +101,8 @@ Escalabilidade:
 
 
 # Diagrama de Estados
-![Complete_State_Diagram_Pizza_Express](https://github.com/user-attachments/assets/55a11858-ad7f-478f-8119-d4f01f9bf274)
+
+![390905634-ccdefb65-cd5b-4a5a-9697-1b5f5a6d5a23](https://github.com/user-attachments/assets/ab30e390-3499-459a-849b-e2cb040d1b62)
 
 
 # Diagrama de Implantação
