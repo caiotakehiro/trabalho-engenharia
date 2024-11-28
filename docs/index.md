@@ -93,7 +93,7 @@ Escalabilidade:
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![Captura de tela 2024-11-28 164330](https://github.com/user-attachments/assets/edf0933b-a994-4839-8c6b-b01c0a16123c)
 
 # Diagrama de Classes
 
